@@ -24,7 +24,7 @@ The goal is to:
 
 | File Name | Description |
 |-----------|-------------|
-| [`regression_priyanka.ipynb`]([./insurance_regression_yourname.ipynb](https://github.com/Priyankanaskar/ml_regression_priyankanaskar/blob/main/Data/regression_priyanka.ipynb)) | Full EDA and regression notebook |
+| [`regression_priyanka.ipynb`](https://github.com/Priyankanaskar/ml_regression_priyankanaskar/blob/main/Data/regression_priyanka.ipynb) | Full EDA and regression notebook |
 | [`peer_review.md`](https://github.com/Priyankanaskar/ml_regression_priyankanaskar/blob/main/peer_review.md)| Peer review for another classmate's project |
 | `data/insurance.csv` | Cleaned dataset used for training the model |
 
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 4.Open the Jupyter notebook:
 ```
-C:\Project\P6-Final-Project-Regression-Analysis\regression_priyanka.ipynb
+https://github.com/Priyankanaskar/ml_regression_priyankanaskar/blob/main/Data/regression_priyanka.ipynb
 ```
 
 ## 📈 Key Findings
