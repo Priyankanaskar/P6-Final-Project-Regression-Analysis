@@ -29,7 +29,7 @@ The goal is to:
 
 ## 🧪 Dataset
 
-We use the **Medical Cost Personal Dataset** from [Kaggle](https://www.kaggle.com/mirichoi0218/insurance), which contains:
+We use the **Medical Cost Personal Dataset** from Kaggle which contains:
 - Age
 - Sex
 - BMI
@@ -44,5 +44,21 @@ We use the **Medical Cost Personal Dataset** from [Kaggle](https://www.kaggle.co
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/yourusername/ml_regression_yourname.git
-cd ml_regression_yourname
+git clone https://github.com/Priyankanaskar/P6-Final-Project-Regression-Analysis
+```
+
+2. Create a virtual environment and activate it:
+```bash
+python -m venv venv
+source venv/bin/activate  
+```
+
+3.Install required packages:
+```bash
+pip install -r requirements.txt
+```
+
+4.Open the Jupyter notebook:
+```
+C:\Project\P6-Final-Project-Regression-Analysis\regression_priyanka.ipynb
+```
