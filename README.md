@@ -1,9 +1,12 @@
 # 📊 Regression Analysis: Insurance Cost Prediction
 
-## 👨‍💻 Author
-**Priyanka Naskar**  
+### 👨‍💻 Author:  **Priyanka Naskar** 
+
 **Date:**9 April 2025
 
+##### Git : https://github.com/Priyankanaskar/ml_regression_priyankanaskar
+
+###### Notebook:https://github.com/Priyankanaskar/ml_regression_priyankanaskar/tree/main/Data
 ---
 
 ## 📁 Project Overview
@@ -21,8 +24,8 @@ The goal is to:
 
 | File Name | Description |
 |-----------|-------------|
-| [`insurance_regression_yourname.ipynb`](./insurance_regression_yourname.ipynb) | Full EDA and regression notebook |
-| [`peer_review.md`](./peer_review.md) | Peer review for another classmate's project |
+| [`regression_priyanka.ipynb`]([./insurance_regression_yourname.ipynb](https://github.com/Priyankanaskar/ml_regression_priyankanaskar/blob/main/Data/regression_priyanka.ipynb)) | Full EDA and regression notebook |
+| [`peer_review.md`]([./peer_review.md](https://github.com/Priyankanaskar/ml_regression_priyankanaskar/blob/main/peer_review.md)) | Peer review for another classmate's project |
 | `data/insurance.csv` | Cleaned dataset used for training the model |
 
 ---
@@ -44,7 +47,7 @@ We use the **Medical Cost Personal Dataset** from Kaggle which contains:
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/Priyankanaskar/P6-Final-Project-Regression-Analysis
+git clone https://github.com/Priyankanaskar/ml_regression_priyankanaskar
 ```
 
 2. Create a virtual environment and activate it:
