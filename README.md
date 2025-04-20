@@ -25,7 +25,7 @@ The goal is to:
 | File Name | Description |
 |-----------|-------------|
 | [`regression_priyanka.ipynb`]([./insurance_regression_yourname.ipynb](https://github.com/Priyankanaskar/ml_regression_priyankanaskar/blob/main/Data/regression_priyanka.ipynb)) | Full EDA and regression notebook |
-| [`peer_review.md`]([./peer_review.md](https://github.com/Priyankanaskar/ml_regression_priyankanaskar/blob/main/peer_review.md)) | Peer review for another classmate's project |
+| [`peer_review.md`](https://github.com/Priyankanaskar/ml_regression_priyankanaskar/blob/main/peer_review.md)| Peer review for another classmate's project |
 | `data/insurance.csv` | Cleaned dataset used for training the model |
 
 ---
@@ -76,9 +76,9 @@ Polynomial transformations helped capture non-linear patterns in the data.
 BMI, while influential, interacts heavily with smoking status.
 
 ### 🔗 Links
-📓 Jupyter Notebook: insurance_regression_yourname.ipynb
+📓 Jupyter Notebook: https://github.com/Priyankanaskar/ml_regression_priyankanaskar/blob/main/Data/regression_priyanka.ipynb
 
-📝 Peer Review: peer_review.md
+📝 Peer Review: [peer_review.md](https://github.com/Priyankanaskar/ml_regression_priyankanaskar/blob/main/peer_review.md)
 
 🙌 Acknowledgments
 Dataset by Kaggle: Medical Cost Personal Dataset
