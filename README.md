@@ -62,3 +62,20 @@ pip install -r requirements.txt
 ```
 C:\Project\P6-Final-Project-Regression-Analysis\regression_priyanka.ipynb
 ```
+
+## 📈 Key Findings
+Age and smoking status are major predictors of insurance charges.
+
+Regression models performed well (R² ≈ 0.85), with Random Forest and Pipeline Regression outperforming the basic linear model.
+
+Polynomial transformations helped capture non-linear patterns in the data.
+
+BMI, while influential, interacts heavily with smoking status.
+
+### 🔗 Links
+📓 Jupyter Notebook: insurance_regression_yourname.ipynb
+
+📝 Peer Review: peer_review.md
+
+🙌 Acknowledgments
+Dataset by Kaggle: Medical Cost Personal Dataset
